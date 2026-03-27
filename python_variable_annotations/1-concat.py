@@ -2,14 +2,14 @@
 
 
 """
-A type annotation of a function adding two floats. Example of type annotation.
+A type annotation of a function concatenating two strings.
 
 """
 
 
 def concat(str1: str, str2: str) -> str:
     """
-    Adds two floats and returns their sum. It's an example of type annotation.
+    Concatenates two strings. It's an example of type annotation.
 
     """
     return str1 + str2
