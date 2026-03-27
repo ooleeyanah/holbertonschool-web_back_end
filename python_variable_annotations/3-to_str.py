@@ -2,7 +2,7 @@
 
 
 """
-A type annotation of a function that returns str of float. Example of type annotation.
+A type annotation of a function that returns str of float.
 
 """
 
