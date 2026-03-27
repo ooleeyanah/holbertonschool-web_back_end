@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-A type annotation of a function claculating floor of float. Example of type annotation.
+A type annotation of a function claculating floor of float.
 
 """
 import math
