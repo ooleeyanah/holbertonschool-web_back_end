@@ -10,3 +10,4 @@ def element_length(lst: Iterable[Sequence]) -> List[Tuple[Sequence, int]]:
     Takes an iterable seqs and returns list of tups
     """
     return [(i, len(i)) for i in lst]
+
